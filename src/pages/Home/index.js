@@ -58,7 +58,7 @@ export default function Home() {
             Nike Joyride Run Flyknit
           </Shoes>
           <Shoes img={require('../../assets/6.png')} cost="R$920" onClick={()=> alert('CLICOU')}>
-            Nike Air Max Dia Sujeito Programador
+            Nike Air Max
           </Shoes>
         </View>
 
@@ -67,7 +67,7 @@ export default function Home() {
             Nike Joyride Run Flyknit
           </Shoes>
           <Shoes img={require('../../assets/6.png')} cost="R$920" onClick={()=> alert('CLICOU')}>
-            Nike Air Max Dia Sujeito Programador
+            Nike Air Max
           </Shoes>
         </View>
 
@@ -76,7 +76,7 @@ export default function Home() {
             Nike Joyride Run Flyknit
           </Shoes>
           <Shoes img={require('../../assets/6.png')} cost="R$920" onClick={()=> alert('CLICOU')}>
-            Nike Air Max Dia Sujeito Programador
+            Nike Air Max
           </Shoes>
         </View>
         
@@ -85,7 +85,7 @@ export default function Home() {
             Nike Joyride Run Flyknit
           </Shoes>
           <Shoes img={require('../../assets/6.png')} cost="R$920" onClick={()=> alert('CLICOU')}>
-            Nike Air Max Dia Sujeito Programador
+            Nike Air Max
           </Shoes>
         </View>
 
